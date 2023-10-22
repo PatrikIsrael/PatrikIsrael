@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! Eu sou o Patrik Israel ✔️📚👨‍💻
 
-<!--
-**PatrikIsrael/PatrikIsrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem sou : 
+Sou um estudante entusiasta, atualmente cursando técnico em desenvolvimento de sistemas e ciência da computação. Desde a infância, minha paixão pela tecnologia tem me impulsionado a buscar um profundo entendimento do mundo da programação.
 
-Here are some ideas to get you started:
+Estou em constante aprendizado e sempre em busca de novos desafios no mundo da tecnologia. Fique à vontade para explorar meus projetos e entrar em contato para discutir colaborações e oportunidades de desenvolvimento. 🚀 🚀 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links para contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrik-israel-22173024a/)
+
+
+![Patrik Israel GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrikIsrael&show_icons=true&theme=onedark)
+
+## Tecnologias que uso no meu dia a dia
+
+<div style="display: onlyni_block"><br/>
+<img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img aling="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img aling="center" alt="MySql" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div><br/>
+
+
+
