@@ -1,7 +1,7 @@
 ### Olá! Eu sou Patrik Israel ✔️📚👨‍💻
 
 ## Quem sou : 
-Sou um estudante entusiasta, atualmente cursando técnico em desenvolvimento de sistemas e ciência da computação. Desde a infância, minha paixão pela tecnologia tem me impulsionado a buscar um profundo entendimento do mundo da programação.
+Desde a infância, minha paixão pela tecnologia tem me impulsionado a buscar um profundo entendimento do mundo da programação.
 
 Estou em constante aprendizado e sempre em busca de novos desafios no mundo da tecnologia. Fique à vontade para explorar meus projetos e entrar em contato para discutir colaborações e oportunidades de desenvolvimento. 🚀 🚀 🚀
 
